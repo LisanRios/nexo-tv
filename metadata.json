@@ -1,0 +1,6 @@
+{
+  "name": "Nexo TV",
+  "description": "Portal de eventos deportivos y sitios favoritos con navegación para control remoto en Android TV y móvil con protección estricta de navegación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
